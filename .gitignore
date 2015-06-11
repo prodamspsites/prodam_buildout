@@ -14,4 +14,7 @@ parts/
 products/
 src/
 var/
+py27/
+default.cfg
+cache.cfg
 .python-version
